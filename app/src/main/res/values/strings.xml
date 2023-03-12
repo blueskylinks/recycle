@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">RecyclerView_video13</string>
+    <string name="textview">TextView</string>-->
+    <string name="molecule_3letter">Molecule_3letter</string>-->
+    <string name="molecule_letter">molecule_letter</string>-->
+    <string name="bas">bas</string>-->
+    <string name="_1letter">1letter</string>-->
+    <string name="baseline">baseline</string>-->
+    <string-array name="amino_acid_full_txt">
+        <item>1circle</item>
+        <item>baseline</item>
+        <item>circle</item>
+        <item>cloud</item>
+        <item>commute</item>
+        <item>connected</item>
+        <item>contact</item>
+        <item>corporate</item>
+        <item>cottage</item>
+        <item>done</item>
+        <item>mail</item>
+        <item>offer</item>
+    </string-array>
+
+    <string-array name="amino_acids_three_letter_txt">
+        <item>1ci</item>
+        <item>bas</item>
+        <item>cir</item>
+        <item>clo</item>
+        <item>com</item>
+        <item>con</item>
+        <item>con</item>
+        <item>cor</item>
+        <item>cot</item>
+        <item>don</item>
+        <item>mai</item>
+        <item>off</item>
+    </string-array>
+
+
+    <string-array name="amino_acids_one_letter_txt">
+        <item>1</item>
+        <item>b</item>
+        <item>c</item>
+        <item>c</item>
+        <item>c</item>
+        <item>c</item>
+        <item>c</item>
+        <item>c</item>
+        <item>c</item>
+        <item>d</item>
+        <item>m</item>
+        <item>o</item>
+    </string-array>
+</resources>
